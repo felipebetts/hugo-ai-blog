@@ -1,4 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://ai-blog-e264e.web.app/'
 languageCode = 'en'
+defaultContentLanguage = 'en'
+
 title = 'AI Blog'
 theme = 'blowfish'
+
+enableRobotsTXT = true

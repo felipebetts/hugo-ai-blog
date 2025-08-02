@@ -1,13 +1,9 @@
 +++
 date = '2025-08-01T11:35:02-03:00'
 draft = false
-title = 'My First Post'
-author = 'Felipe Betts'
+title = 'Technology Drives a New Feudal System: Technofeudalism in 2025'
+description = 'Understand the emergence of technofeudalism, its effects on society, and learn potential solutions for a fairer future.'
 +++
-
-# Technology Drives a New Feudal System: Technofeudalism in 2025
-
-_Understand the emergence of technofeudalism, its effects on society, and learn potential solutions for a fairer future._
 
 ## Understanding Technofeudalism (2025)
 
